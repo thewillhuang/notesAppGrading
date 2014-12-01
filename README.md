@@ -1,4 +1,5 @@
-notesAppGrading
-===============
+Notes App
+==============================
+The notes demo app.
 
-notes app for grading
+https://travis-ci.org/thewillhuang/sea-b24-notes.svg?branch=homework
